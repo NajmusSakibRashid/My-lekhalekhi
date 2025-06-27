@@ -1,0 +1,6 @@
+ - প্রাদেশিক স্বায়ত্বশাসন
+ - ফেডারেল গভর্নমেন্ট
+ - দ্বিকক্ষবিশিষ্ট আইনসভা
+    - legislative assembly
+    - council of states
+ - separate electorates
